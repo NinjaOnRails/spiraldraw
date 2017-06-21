@@ -1,0 +1,1 @@
+Using the pyautogui, draws a spiral with the mouse. Can be used with MS Paint, GIMP, etc
